@@ -1,2 +1,2 @@
 [config]
-project = src/ShortenerTools.FunctionApp/ShortenerTools.FunctionApp.csproj
+project = src/AppHost/Cloud5mins.ShortenerTools.AppHost.csproj
